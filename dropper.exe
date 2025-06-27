@@ -1,0 +1,2 @@
+// dropper.exe - payload deployment tool (fake)
+printf("Deploying payload...");
